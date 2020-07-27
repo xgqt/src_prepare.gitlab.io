@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://gitlab.com/src_prepare/src_prepare-overlay/pipelines">
-        <img src="https://gitlab.com/src_prepare/src_prepare-overlay/badges/master/pipeline.svg">
+    <a href="https://gitlab.com/src_prepare/src_prepare.gitlab.io/pipelines">
+        <img src="https://gitlab.com/src_prepare/src_prepare.gitlab.io/badges/master/pipeline.svg">
     </a>
     <a href="https://gentoo.org/">
         <img src="https://gitlab.com/src_prepare/badge/-/raw/master/gentoo-linux-purple.svg">
@@ -11,7 +11,7 @@
     <a href="https://app.element.io/#/room/#src_prepare:matrix.org">
         <img src="https://gitlab.com/src_prepare/badge/-/raw/master/chat-matrix-blue.svg">
     </a>
-    <a href="https://gitlab.com/src_prepare/src_prepare-overlay/commits/master.atom">
+    <a href="https://gitlab.com/src_prepare/src_prepare.gitlab.io/commits/master.atom">
         <img src="https://gitlab.com/src_prepare/badge/-/raw/master/feed-atom-orange.svg">
     </a>
 </p>
