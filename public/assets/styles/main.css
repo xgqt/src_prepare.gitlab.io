@@ -9,10 +9,6 @@
 
 /* General */
 
-* {
-    background-repeat: no-repeat;
-}
-
 html,
 body {
     height: 100%;
@@ -89,6 +85,7 @@ body {
     background-color: rgba(43, 40, 40, 1);
     color: rgba(153, 156, 150, 1) ;
     height: 60%;
+    overflow: auto;
     padding: 1% 5% 1% 5%;
 }
 
@@ -102,6 +99,13 @@ body {
 
 #about a:visited {
     color: rgba(133, 153, 0, 1);
+}
+
+#about img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
 
 
