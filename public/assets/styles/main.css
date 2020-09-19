@@ -101,11 +101,18 @@ body {
     color: rgba(133, 153, 0, 1);
 }
 
-#about img {
+.src_prepare-picture {
     display: block;
+    height: 50%;
     margin-left: auto;
     margin-right: auto;
-    height: 50%;
+}
+
+.projects-table tr,
+.projects-table th,
+.projects-table td {
+    font-size: calc(10px + 1vh);
+    padding: 5px;
 }
 
 
