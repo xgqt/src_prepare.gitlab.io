@@ -1,0 +1,3 @@
+[submodule "public/assets/badges"]
+	path = public/assets/badges
+	url = https://gitlab.com/src_prepare/badge
