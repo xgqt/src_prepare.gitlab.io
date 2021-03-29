@@ -1,3 +1,5 @@
+# src_prepare.gitlab.io
+
 <p align="center">
     <a href="https://gitlab.com/src_prepare/src_prepare.gitlab.io/pipelines">
         <img src="https://gitlab.com/src_prepare/src_prepare.gitlab.io/badges/master/pipeline.svg">
@@ -20,6 +22,6 @@
 </p>
 
 
-# src_prepare.gitlab.io
+# About
 
 The source code of [src_prepare website](https://src_prepare.gitlab.io)
